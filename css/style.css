@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.video{
+    background: url(../images/train.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.background_overly{
+    background: rgba(13, 14, 14, 0.7);
+    padding: 300px 0px;
+}
+
+.icon{
+    text-align: center;
+}
+
+.back-to-top{
+    height: 70px;
+    width: 70px;
+    background: tomato;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 70px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.back-to-top i{
+    font-size: 25px;
+    color: #fff;
+}
+    
